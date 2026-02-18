@@ -10,5 +10,3 @@ Tech Stack (always growing)
 - **Tools:** Git, GitHub, Azure, VS Code
 
 Feel free to check out my repositories or reach out — always happy to learn and collaborate!
-
-⭐ *Thanks for stopping by!*
