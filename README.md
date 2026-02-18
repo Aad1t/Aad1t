@@ -9,7 +9,6 @@ Tech Stack (always growing)
 - **Databases:** PostgreSQL, SQLite
 - **Tools:** Git, GitHub, Azure, VS Code
 
-## 📫 Let’s Connect
 Feel free to check out my repositories or reach out — always happy to learn and collaborate!
 
 ⭐ *Thanks for stopping by!*
